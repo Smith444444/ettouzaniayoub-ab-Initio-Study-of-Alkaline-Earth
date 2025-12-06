@@ -9,7 +9,7 @@
     celldm(1)=  13.406682569
     celldm(2)=  13.391378196
     celldm(3)=  19.025967696
-    ecutwfc=  65
+    ecutwfc=  75
     ibrav= 0
     nat= 20
     ntyp= 3
